@@ -1,0 +1,159 @@
+DECCAN COLLEGE  
+Post-Graduate and Research Institute  
+Pune 411006  
+[Declared as deemed to be University under Section 3 of UGC Act 1956]  
+ 
+ADMISSION NOTICE: 2024  
+[NOTICE NO. AS/202 4/1331 ] 
+I. Admissions are open for the following courses for the year 202 4 
+ 
+1. ONL INE Advanced Certificate course  on ‘Python Programming for Computational 
+Linguistics and Natural Language Processing’  (Please check detailed course information 
+in Annexure -I below. ) 
+ 
+ Duration: 2 months (30 hrs: 2 Credits)  
+ 
+ Intake Capacity: 20 seats  
+ 
+ Last date of Registration:  1st May 2024  
+ 
+ Eligibility: 10+2 or equivalent  from any recognised institute  AND  have (i) OR (ii) 
+mentioned below;  
+i) Should have completed the certificate course on “Python Programming for NLP and 
+Computational Linguistics” jointly offered by Deccan College Post -Graduate 
+Research Institute, Pune and MITU Skillologies, Pune.  
+ 
+OR 
+ii) Should have - 
+ Practical knowledge of Python Programming  
+ Basics of  NLP through Python Programming  
+ Basic mathematical reasoning  
+ 
+Note:  
+1. Candidate should fill in the admission form online  on www.dcpune.ac.in  
+2. For any query, please contact on Academic Section , Tel: 020-26513237 ,academic@dcpune.ac.in  
+3. The University reserves the right to amend the policies at any point of time and adhere to the 
+UGC norms and Govt. of Maharashtra.  
+ 
+ 
+ 
+           Sd/- 
+ 
+Date:  27.03.2024         J. G. Kulkarni   
+   Asstt. Registrar  
+ 
+ 
+       
+ 
+ 
+  
+ 
+Annexture -I 
+ 
+Information about course structure of ONLINE Advanced Certificate 
+courses on ‘Python Programming for Computational Linguistics and 
+Natural Language Processing’  
+ 
+1) Course Name : Advanced Certificate 
+course onPythonforComputationalLinguisticsandNaturalLanguageProcessing.  
+2) Credits:  2 credits  
+ 
+3) Mode:  Online (Google Meet)  
+  
+4) Course Commencement: 2nd May 2024  
+  
+5) Eligibility:  10+2 or equivalent and  
+i) Should have completed the certificate course on “Python Programming for NLP and 
+Computational Linguistics” jointly offered by Deccan College Post -Graduate Research 
+Institute, Pune and MITU Skillologies, Pune.  
+OR 
+ii) Should have - 
+ Practical knowledge of Python Programming  
+ Basics of NLP through Python Programming.  
+ Basic mathematical reasoning.  
+ 
+6) Intake Capacity:  20 seats  
+  
+7) Minimum Seats:  10 Seats  
+  
+8) Total Duration: 5 weeks  (30 hrs.)  
+  
+9) Timings:  Monday to Tuesday , 6:30 pm to 8:30 pm  
+  
+10) Faculty:  Mr. Tushar Kute  
+Mr. Kute  is B.E. Computer from COEP and M.E. CSE from MIT with 17 years’ 
+experience in teaching and training. He is Microsoft Certified Technology Associate 
+in Python  Programming. He has conducted 50+ corporate batches of AI & DS 
+using  Python and over 200 student training programs across Maharashtra. Know 
+more:  http://tusharkute.com  
+  
+11) Admission Link:  www.dcpune.ac.in  
+  
+12) Course Fees: 5,5 00/-  
+ 
+13) Prerequisite:  Students should have their own laptop/Desktop.  
+  
+14) Assessment:  Participants’ performance will be assessed (1) continually (this assessment 
+will be out of 50 marks and will include regularity of attendance and students’ performance 
+in internal assignments) and (2) at the end of the course (this assessment will be out of 50 
+marks).  
+ 
+15) Final Examination:  The final online examination will be of 50 marks.  
+  
+16) Certificate:  The final certification, will be issued jointly by Deccan College, Pune, and 
+MITU Skillologies only to the  eligible students. The passing mark will be 40 out of total 100 
+marks.    
+ 
+ 
+17) Syllabus:  
+ 
+1) Artificial Intelligence and Computational Linguistics  
+17.1.1 Use of AI in linguistics  
+17.1.2 Branches of AI  
+ 
+2)Information Extraction  
+17.2.1 Ways to collect the data 
+17.2.2 Web scrapping  
+17.2.3 Python libraries of data collection  
+ 
+3) Automatic Text Summarization  
+17.3.1 Abstractive text summarization  
+17.3.2 Extractive text summarization  
+ 
+4) Word Sense Disambiguation  
+4.1 How to check the literal meaning of words  
+4.2 Python libraries of WSD  
+ 
+5) Machine Learning  
+5.1 Supervised Learning  
+5.1.1 Implementation of Decision Tree algorithm  
+5.2. Unsupervised Learning  
+5.2.2 Implementation of K -means clustering algorithm  
+5.3 Python Libraries  
+5.3.1 Using the scikit -learn library  
+5.3.2 Using keras library  
+5.4 Classification Algorithms for text classification  
+5.4.1 What is text classification?  
+5.4.2 The preprocessing methods  
+5.5 Clustering Algorithms for text clustering  
+5.5.1 Creating the groups of the data collected  
+5.5.2 Applicati ons of text clustering  
+ 
+6) Deep Learning  
+6.1 Artificial Neural Network  
+6.1.1 Build an artificial neural network  
+6.2 Convolutional Neural Network for OCR  
+6.2.1 Why and how CNN over ANN?  
+6.2.2 Architecture of CNN.  
+6.3 Recurrent Neural Network for Sequence Mo delling  
+6.3.1 What is sequence modelling?  
+6.3.2 Application and examples of sequence modelling using RNN  
+ 
+7) Transformers Models  
+7.1 Using the pre -built transformer models  
+ 
+8) BERT Models  
+8.1 Using BERT for NLP  
+8.2 Generative AI  
+ 
+9. Application Deployment.
