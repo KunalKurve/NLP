@@ -1,0 +1,104 @@
+Tejashree Pishe 
+Jr. Machine Learning Engineer. (MITU Research) 
+EXPERIENCE 
+MITU Research, New Sangavi, Pune 
+ Feb 2021 till date 
+Hiko Technology Pvt. Ltd., Baner, Pune Full Time Internship 
+August 2019 May 2020. 
+ 
+KEY PROJECTS 
+Predictive Analytics Implemented for Pistachio Types over quality parameter database
+Study the origin, trade business and nutritional values over Pistachio types.
+Review the quality of pistachio types over its quality  
+pararameters.
+Critically evaluate and data preprocessing over the database.
+Used the Resampling techniques to work on imbalanced data set.
+Identify the quality parameters which has more impact on classification of Pistachio types by quantitative analysis.
+Find out the best suitable algorithm with more than 90% accuracy to predict the type of pistachio over new data.
+Updating and upgrading the model with non-predictable data.
+Technologies: Python for Data Science, NumPY, Panda,
+Machine Learning Algorithms 
+ 
+Design and development of Decision support System for selection of New Resume to 
+Suitable Job Profile
+Selection of proper dataset used for the research work.
+Performing the data preprocessing work and finding   useful insights in it. 
+Converting dataset into analytic form for better operation.
+Processed dataset with best suitable machine learning algorithm to give accuracy more than 80%.
+Propose a model to access reliability in late design phase with available dataset using new modified set of metrics. 
+Technologies: Python for Data Science, NLP, Panda, NumPy, Machine Learning Algorithms 
+
+EDUCATION 
+MKSSSS Cummins College of Engineering, Pune M.Tech, Electronics and Telecommunication Engineering. 
+JUNE 2018 - MAY 2020
+
+Bramhdevdada Mane Institute of Technology, Solapur B.E., Electronics and Telecommunication Engineering. 
+Aug 2010 - MAY 2016 
+ 
+ 
+Address 
+Flat.No.905, Tierra Viva Society,  
+Baner, Pune 411045, INDIA. 
+Phone 
++91-9834482554, +91-9665845255
+Email  
+tejashri.pishe@gmail.com 
+LinkedIn 
+  linkedin.com/in/tejashree-pishe-174306108
+SKILLS 
+Python Programming  
+Deep Learning
+Machine Learning Development
+Artificial Intelligence 
+Natural Language Processing
+Model Optimization Technique
+Predictive Modeling
+Data Preprocessing
+Programming Visualization
+Data Mining
+MYSQL 
+
+WORK REFERENCES
+Tushar B.Kute
+Senior Data Scientist, MITU Research, Pune
+Email: tushar@tusharkute.com
+
+Rashmi R. Thorave 
+Managing Director, MITU Research, Pune
+Email: rashmi@tusharkute.com
+
+Vivek D.Patil 
+Associate Director, MITU Skilloogies, Pune
+Email: developer@mitu.co.in
+
+CERTIFICATION COMPLETED
+MITU Certified Data Science Specialist
+From: MITU Skillologies, Pune | Certificate ID: MITUDX22-33
+Data Science and Machine Learning
+Data Visualization
+Natural Language Processing
+
+
+Microsoft Technology Associate MTA 98-381
+Basics of Python Programming | Certificate No.: MITU-PX-23528
+Basics of Python Programming
+Marks:76
+
+
+TECHNICAL SKILLSET
+Programming Languages
+Python, C++, C
+
+AI and DS Skills
+Regression modelling with Linear, Logistic regression and Regularization
+Classification Systems: Decision Tree , KNN, SVM, Gaussian NB, Neural Networks
+Ensembling  Random Forest, Boosting Techniques
+Clustering Methods- K-means, Hierarchical Clustering
+Association Rules Mining such apriori
+Dimensionality reduction techniques
+
+
+LANGUAGES 
+English, Hindi, and Marathi 
+INTERESTS 
+Dance, Reading
