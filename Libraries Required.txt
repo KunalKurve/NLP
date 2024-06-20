@@ -1,0 +1,21 @@
+Python NLTK:
+    Natural Language Tool Kit.
+    For Rule-based and Statistical Analysis
+
+    Tokenization, Stemming, Lemmatization, Parsing, Tagging, Named Entity Recognition,
+        nltk.download('punkt') # Tokenization
+        nltk.download('stopwords') # Stopwords removal
+        nltk.download('averaged_perceptron_tagger') # POS tagging
+        nltk.download('wordnet') # Wordnet database and lemmatization
+        nltk.download('omw-1.4') # Stemming
+        nltk.download('indian') # Indian Language POS tagging
+        nltk.download('maxent_ne_chunker') # Chunking
+
+SpaCy:
+    Industrial-Strength Natural Language Processing
+    spaCy is a free, open-source Python library that provides advanced capabilities to conduct NLP on large volumes of text at high speed. 
+    It helps you build models and production applications that can underpin document analysis, chatbot capabilities, and all other forms of text analysis.
+
+TextBlob:
+    TextBlob is a Python library for processing textual data. 
+    It provides a simple API for diving into common NLP tasks such as part-of-speech tagging, noun phrase extraction, sentiment analysis, classification, and more.
