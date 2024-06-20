@@ -1,0 +1,25 @@
+Tokenization:
+    The process of converting a sequence of text into smaller parts, known as tokens. 
+    These tokens can be as small as characters or as long as words. 
+    The primary reason this process matters is that it helps machines understand human language by breaking it down into bite-sized pieces, which are easier to analyze.
+
+
+SpaceTokenizer:
+    Split is done onn the basis of single space.
+
+TabTokenizer:
+    Split is done on the basis of single tab.
+
+LineTokenizer:
+    Split is done on the basis of single line.
+
+WhitespaceTokenizer:
+    Split is done on the basis of any whitespace character. It includes space, tab and new line characters.
+
+MWETokenizer: Multi Word Expression
+    2 or more words which are to be considered togeter for Analysis and Understanding. Generally used in Sentiment Analysis.
+    Eg: is good, not good. 
+        If this is split, then the entire meaning changes. Hence we take these words together.
+
+TweetTokenizer:
+    Emojis are taken together and not as differernt chars. Generally used in Sentiment Analysis.

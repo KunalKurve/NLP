@@ -1,0 +1,6 @@
+Hello Friends! How are you?
+Welcome to the world of Python Programming.
+
+
+Hello Friends!	How are you?
+Welcome to the world of Python	Programming.
